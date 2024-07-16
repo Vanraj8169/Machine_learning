@@ -1,0 +1,10 @@
+2024-07-16 18:06:38,841-root-DEBUG-This is a debug message-configure_logging_with_dict-34
+2024-07-16 18:06:38,843-root-WARNING-This is a warning message-configure_logging_with_dict-35
+2024-07-16 18:06:38,843-root-INFO-This is an info message-configure_logging_with_dict-36
+2024-07-16 18:06:38,844-root-CRITICAL-This is a critical message-configure_logging_with_dict-37
+2024-07-16 18:06:38,845-root-ERROR-This is an error message-configure_logging_with_dict-38
+2024-07-16 18:16:53,538-root-DEBUG-This is a debug message-configure_logging_with_dict-34
+2024-07-16 18:16:53,539-root-WARNING-This is a warning message-configure_logging_with_dict-35
+2024-07-16 18:16:53,540-root-INFO-This is an info message-configure_logging_with_dict-36
+2024-07-16 18:16:53,541-root-CRITICAL-This is a critical message-configure_logging_with_dict-37
+2024-07-16 18:16:53,542-root-ERROR-This is an error message-configure_logging_with_dict-38

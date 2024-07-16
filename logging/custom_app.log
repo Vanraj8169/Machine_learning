@@ -1,0 +1,11 @@
+2024-07-16 15:24:26,116-custom_logger-DEBUG-This is a debug message
+2024-07-16 15:24:26,118-custom_logger-INFO-This is an info message
+2024-07-16 15:24:26,119-custom_logger-CRITICAL-This is a critical message
+2024-07-16 15:24:26,120-custom_logger-WARNING-This is a warning message
+2024-07-16 15:24:26,121-custom_logger-ERROR-This is an error message
+2024-07-16 15:46:36,043-exception_logger-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Users\Vanraj\AppData\Local\Temp\ipykernel_68\3761682480.py", line 15, in logger_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero

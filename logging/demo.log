@@ -1,0 +1,11 @@
+2024-07-16 15:37:12,115-rotating_logger-ERROR-This is an error message
+2024-07-16 15:37:33,806-rotating_logger-DEBUG-This is a debug message
+2024-07-16 15:37:34,147-rotating_logger-INFO-This is an info message
+2024-07-16 15:37:34,152-rotating_logger-CRITICAL-This is a critical message
+2024-07-16 15:37:34,155-rotating_logger-WARNING-This is a warning message
+2024-07-16 15:37:34,157-rotating_logger-ERROR-This is an error message
+2024-07-16 15:38:20,504-rotating_logger-DEBUG-This is a debug message
+2024-07-16 15:38:20,509-rotating_logger-INFO-This is an info message
+2024-07-16 15:38:20,514-rotating_logger-CRITICAL-This is a critical message
+2024-07-16 15:38:20,518-rotating_logger-WARNING-This is a warning message
+2024-07-16 15:38:20,520-rotating_logger-ERROR-This is an error message
